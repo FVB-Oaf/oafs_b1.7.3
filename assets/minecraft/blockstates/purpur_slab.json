@@ -1,0 +1,5 @@
+{"variants":{
+    "type=bottom":{"model":"block/smooth_stone_slab"},
+    "type=double":{"model":"block/magenta_wool"},
+    "type=top":{"model":"block/no_cull/magenta_wool"}
+}}
