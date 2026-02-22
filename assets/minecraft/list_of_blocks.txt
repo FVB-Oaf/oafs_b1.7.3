@@ -1,0 +1,26 @@
+GRASS BLOCK         STONE               DIRT                OAK PLANKS
+SMOOTH STONE SLAB   BRICKS              TNT                 COBWEB
+ROSE                DANDELION           WATER               OAK SAPLING
+COBBLESTONE         BEDROCK             SAND                GRAVEL
+OAK LOG             IRON BLOCK          GOLD BLOCK          DIAMOND BLOCK
+CHEST               RED MUSHROOM        BROWN MUSHROOM      FIRE
+GOLD ORE            IRON ORE            COAL ORE            BOOKSHELF
+MOSSY COBBLESTONE   OBSIDIAN            GRASS               CRAFTING TABLE
+FURNACE             DISPENSER           SPONGE              GLASS
+DIAMOND ORE         REDSTONE ORE        OAK LEAVES          DEAD BUSH
+FERN                SPRUCE SAPLING      WHITE WOOL          SPAWNER
+SNOW BLOCK          SNOW LAYER          ICE                 CACTUS
+CLAY                SUGAR CANE          NOTE BLOCK          JUKEBOX
+BIRCH SAPLING       TORCH               OAK DOOR            IRON DOOR
+LADDER              OAK TRAPDOOR        FARMLAND            WHEAT
+LEVER               REDSTONE TORCH      CARVED PUMPKIN      NETHERRACK
+SOUL SAND           GLOWSTONE           PISTON              STICKY PISTON
+RAIL                BLACK WOOL          GRAY WOOL           SPRUCE LOG
+BIRCH LOG           JACK-O-LANTERN      CAKE                RED WOOL
+PINK WOOL           REPEATER            SPRUCE LEAVES       BED
+LAPIS BLOCK         GREEN WOOL          LIME WOOL           LAPIS ORE
+BROWN WOOL          YELLOW WOOL         POWERED RAIL        REDSTONE DUST
+SANDSTONE           BLUE WOOL           LIGHT BLUE WOOL     PURPLE WOOL
+MAGENTA WOOL        DETECTOR RAIL       CYAN WOOL           ORANGE WOOL
+LIGHT GRAY WOOL     LAVA                AIR                 OAK STAIRS
+COBBLESTONE STAIRS  COBBLESTONE SLAB    OAK SLAB            SANDSTONE SLAB
