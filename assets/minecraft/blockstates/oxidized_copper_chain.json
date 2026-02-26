@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {"apply":{"model":"block/oak_fence_post"}},
+    {"apply":{"model":"block/oak_fence_side","uvlock":true},"when":{"axis":"z"}},
+    {"apply":{"model":"block/oak_fence_side","y":180,"uvlock":true},"when":{"axis":"z"}},
+    {"apply":{"model":"block/oak_fence_side","y":90,"uvlock":true},"when":{"axis":"x"}},
+    {"apply":{"model":"block/oak_fence_side","y":270,"uvlock":true},"when":{"axis":"x"}}
+  ]
+}

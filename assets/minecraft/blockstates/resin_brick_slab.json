@@ -1,5 +1,5 @@
 {"variants":{
     "type=bottom":{"model":"block/cobblestone_slab"},
     "type=double":{"model":"block/orange_wool"},
-    "type=top":{"model":"block/no_cull/orange_wool"}
+    "type=top":{"model":"block/ob173/no_cull/orange_wool"}
 }}
