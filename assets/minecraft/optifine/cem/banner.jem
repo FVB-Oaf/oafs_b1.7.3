@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "banner",
+	"models": [
+		{
+			"part": "top",
+			"id": "top",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "slate",
+			"id": "slate",
+			"invertAxis": "xy",
+			"translate": [0, -44, 0]
+		},
+		{
+			"part": "stand",
+			"id": "stand",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}
