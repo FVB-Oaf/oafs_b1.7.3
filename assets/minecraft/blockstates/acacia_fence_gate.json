@@ -1,80 +1,13 @@
 {
-  "variants": {
-    "facing=east,in_wall=false,open=false": {
-      "model": "minecraft:block/oak_fence_gate",
-      "uvlock": true,
-      "y": 270
-    },
-    "facing=east,in_wall=false,open=true": {
-      "model": "minecraft:block/oak_fence_gate_open",
-      "uvlock": true,
-      "y": 270
-    },
-    "facing=east,in_wall=true,open=false": {
-      "model": "minecraft:block/oak_fence_gate_wall",
-      "uvlock": true,
-      "y": 270
-    },
-    "facing=east,in_wall=true,open=true": {
-      "model": "minecraft:block/oak_fence_gate_wall_open",
-      "uvlock": true,
-      "y": 270
-    },
-    "facing=north,in_wall=false,open=false": {
-      "model": "minecraft:block/oak_fence_gate",
-      "uvlock": true,
-      "y": 180
-    },
-    "facing=north,in_wall=false,open=true": {
-      "model": "minecraft:block/oak_fence_gate_open",
-      "uvlock": true,
-      "y": 180
-    },
-    "facing=north,in_wall=true,open=false": {
-      "model": "minecraft:block/oak_fence_gate_wall",
-      "uvlock": true,
-      "y": 180
-    },
-    "facing=north,in_wall=true,open=true": {
-      "model": "minecraft:block/oak_fence_gate_wall_open",
-      "uvlock": true,
-      "y": 180
-    },
-    "facing=south,in_wall=false,open=false": {
-      "model": "minecraft:block/oak_fence_gate",
-      "uvlock": true
-    },
-    "facing=south,in_wall=false,open=true": {
-      "model": "minecraft:block/oak_fence_gate_open",
-      "uvlock": true
-    },
-    "facing=south,in_wall=true,open=false": {
-      "model": "minecraft:block/oak_fence_gate_wall",
-      "uvlock": true
-    },
-    "facing=south,in_wall=true,open=true": {
-      "model": "minecraft:block/oak_fence_gate_wall_open",
-      "uvlock": true
-    },
-    "facing=west,in_wall=false,open=false": {
-      "model": "minecraft:block/oak_fence_gate",
-      "uvlock": true,
-      "y": 90
-    },
-    "facing=west,in_wall=false,open=true": {
-      "model": "minecraft:block/oak_fence_gate_open",
-      "uvlock": true,
-      "y": 90
-    },
-    "facing=west,in_wall=true,open=false": {
-      "model": "minecraft:block/oak_fence_gate_wall",
-      "uvlock": true,
-      "y": 90
-    },
-    "facing=west,in_wall=true,open=true": {
-      "model": "minecraft:block/oak_fence_gate_wall_open",
-      "uvlock": true,
-      "y": 90
-    }
-  }
+  "multipart": [
+    {"apply":{"model":"block/oak_fence_post"}},
+    {"apply":{"model":"block/oak_fence_side","uvlock":true},"when":{"facing":"east"}},
+    {"apply":{"model":"block/oak_fence_side","y":180,"uvlock":true},"when":{"facing":"east"}},
+    {"apply":{"model":"block/oak_fence_side","uvlock":true},"when":{"facing":"west"}},
+    {"apply":{"model":"block/oak_fence_side","y":180,"uvlock":true},"when":{"facing":"west"}},
+    {"apply":{"model":"block/oak_fence_side","y":90,"uvlock":true},"when":{"facing":"north"}},
+    {"apply":{"model":"block/oak_fence_side","y":270,"uvlock":true},"when":{"facing":"north"}},
+    {"apply":{"model":"block/oak_fence_side","y":90,"uvlock":true},"when":{"facing":"south"}},
+    {"apply":{"model":"block/oak_fence_side","y":270,"uvlock":true},"when":{"facing":"south"}}
+  ]
 }

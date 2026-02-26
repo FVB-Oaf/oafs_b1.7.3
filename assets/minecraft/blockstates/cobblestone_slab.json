@@ -1,5 +1,5 @@
 {"variants":{
     "type=bottom":{"model":"block/cobblestone_slab"},
     "type=double":{"model":"block/cobblestone"},
-    "type=top":{"model":"block/no_cull/cobblestone"}
+    "type=top":{"model":"block/ob173/no_cull/cobblestone"}
 }}
