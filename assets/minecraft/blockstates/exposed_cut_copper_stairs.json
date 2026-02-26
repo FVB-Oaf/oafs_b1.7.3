@@ -1,13 +1,13 @@
 {
   "variants":{
-    "facing=east,half=bottom,shape=straight":{"model":"minecraft:block/no_cull/cobblestone_stairs"},
-    "facing=north,half=bottom,shape=straight":{"model":"minecraft:block/no_cull/cobblestone_stairs","uvlock":true,"y":270},
-    "facing=south,half=bottom,shape=straight":{"model":"minecraft:block/no_cull/cobblestone_stairs","uvlock":true,"y":90},
-    "facing=west,half=bottom,shape=straight":{"model":"minecraft:block/no_cull/cobblestone_stairs","uvlock":true,"y":180},
-    "half=bottom,shape=outer_left":{"model":"minecraft:block/smooth_stone_slab"},
-    "half=bottom,shape=outer_right":{"model":"minecraft:block/smooth_stone_slab"},
-    "half=bottom,shape=inner_left":{"model":"minecraft:block/no_cull/iron_block"},
-    "half=bottom,shape=inner_right":{"model":"minecraft:block/no_cull/iron_block"},
-    "half=top":{"model":"minecraft:block/no_cull/iron_block"}
+    "facing=east,half=bottom,shape=straight":{"model":"block/ob173/no_cull/cobblestone_stairs"},
+    "facing=north,half=bottom,shape=straight":{"model":"block/ob173/no_cull/cobblestone_stairs","uvlock":true,"y":270},
+    "facing=south,half=bottom,shape=straight":{"model":"block/ob173/no_cull/cobblestone_stairs","uvlock":true,"y":90},
+    "facing=west,half=bottom,shape=straight":{"model":"block/ob173/no_cull/cobblestone_stairs","uvlock":true,"y":180},
+    "half=bottom,shape=outer_left":{"model":"block/smooth_stone_slab"},
+    "half=bottom,shape=outer_right":{"model":"block/smooth_stone_slab"},
+    "half=bottom,shape=inner_left":{"model":"block/ob173/no_cull/iron_block"},
+    "half=bottom,shape=inner_right":{"model":"block/ob173/no_cull/iron_block"},
+    "half=top":{"model":"block/ob173/no_cull/iron_block"}
   }
 }

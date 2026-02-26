@@ -1,5 +1,5 @@
 {"variants":{
     "type=bottom":{"model":"block/sandstone_slab"},
     "type=double":{"model":"block/dirt"},
-    "type=top":{"model":"block/no_cull/dirt"}
+    "type=top":{"model":"block/ob173/no_cull/dirt"}
 }}
