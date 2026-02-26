@@ -1,0 +1,13 @@
+Language > English (US)
+Video > Smooth Lighting: Off
+Video > Brightness: Moody or Default
+Video > Entity Shadows: Off
+
+Optifine:
+    Video > Quality > Better Grass: Off
+    Video > Quality > Connected Textures: Off
+    Video > Quality > Custom Entity Models: On
+    Video > Quality > Better Snow: Off
+    Video > Quality > Natural Textures: Off
+    Video > Quality > Custom Items: On
+    Video > Quality > Custom GUIs: On
