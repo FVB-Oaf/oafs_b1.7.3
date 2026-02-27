@@ -1,6 +1,4 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#torch"
@@ -10,6 +8,7 @@
 			"from": [7, 0, 7],
 			"to": [9, 10, 9],
 			"shade": false,
+            "light_emission": 15,
 			"faces": {
 				"up": {"uv": [7, 6, 9, 8], "texture": "#torch"},
 				"down": {"uv": [7, 13, 9, 15], "texture": "#torch", "cullface": "down"}
@@ -19,6 +18,7 @@
 			"from": [7, 0, 0],
 			"to": [9, 16, 16],
 			"shade": false,
+            "light_emission": 15,
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#torch"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#torch"}
@@ -28,6 +28,7 @@
 			"from": [0, 0, 7],
 			"to": [16, 16, 9],
 			"shade": false,
+            "light_emission": 15,
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#torch"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#torch"}
