@@ -1,0 +1,6 @@
+{
+    "multipart":[
+      {"apply":{"model":"block/oak_sapling"}},
+      {"apply":{"model":"block/ob173/the_block_below_is/a_poor_aproximation_of_a_grass_block"}}
+    ]
+  }
