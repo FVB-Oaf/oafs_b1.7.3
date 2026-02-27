@@ -84,6 +84,11 @@
     "block.minecraft.smooth_quartz":"Block of Iron",
     "block.minecraft.quartz_pillar":"Block of Iron",
     "block.minecraft.chiseled_quartz_block":"Block of Iron",
+    "block.minecraft.anvil":"Block of Iron",
+    "block.minecraft.chipped_anvil":"Block of Iron",
+    "block.minecraft.damaged_anvil":"Block of Iron",
+    "block.minecraft.cauldron":"Block of Iron",
+    "block.minecraft.hopper":"Block of Iron",
     
     "block.minecraft.blue_terracotta":"Blue Wool",
     "block.minecraft.blue_concrete":"Blue Wool",
@@ -92,6 +97,7 @@
 
     "block.minecraft.nether_bricks":"Bricks",
     "block.minecraft.red_nether_bricks":"Bricks",
+    "block.minecraft.decorated_pot":"Bricks",
     
     "block.minecraft.brown_mushroom_block":"Brown Wool",
     "block.minecraft.brown_terracotta":"Brown Wool",
@@ -221,8 +227,18 @@
     "block.minecraft.waxed_weathered_copper_chain":"Fence",
     "block.minecraft.waxed_oxidized_copper_chain":"Fence",
     
+    "block.minecraft.campfire":"Flint and Steel",
+    "block.minecraft.soul_campfire":"Flint and Steel",
+    
+    "block.minecraft.smoker":"Furnace",
+    "block.minecraft.blast_furnace":"Furnace",
+    
     "block.minecraft.redstone_lamp":"Glowstone",
     "block.minecraft.shroomlight":"Glowstone",
+    "block.minecraft.pearlescent_froglight":"Glowstone",
+    "block.minecraft.verdant_froglight":"Glowstone",
+    "block.minecraft.ochre_froglight":"Glowstone",
+    "block.minecraft.end_rod":"Glowstone",
     
     "block.minecraft.deepslate_gold_ore":"Gold Ore",
     
@@ -254,6 +270,9 @@
     "block.minecraft.mangrove_leaves":"Leaves",
     "block.minecraft.cherry_leaves":"Leaves",
     "block.minecraft.pale_oak_leaves":"Leaves",
+    "block.minecraft.azalea_leaves":"Leaves",
+    "block.minecraft.flowering_azalea_leaves":"Leaves",
+    "block.minecraft.spore_blossom":"Leaves",
     
     "block.minecraft.light_blue_terracotta":"Light Blue Wool",
     "block.minecraft.light_blue_concrete":"Light Blue Wool",
@@ -287,6 +306,8 @@
     "block.minecraft.orange_concrete":"Orange Wool",
     "block.minecraft.orange_concrete_powder":"Orange Wool",
     "block.minecraft.orange_carpet":"Orange Wool",
+    "block.minecraft.honeycomb_block":"Orange Wool",
+    "block.minecraft.honey_block":"Orange Wool",
     
     "block.minecraft.pink_terracotta":"Pink Wool",
     "block.minecraft.pink_concrete":"Pink Wool",
@@ -299,6 +320,8 @@
     "block.minecraft.purple_concrete":"Purple Wool",
     "block.minecraft.purple_concrete_powder":"Purple Wool",
     "block.minecraft.purple_carpet":"Purple Wool",
+    "block.minecraft.amethyst_block":"Purple Wool",
+    "block.minecraft.budding_amethyst":"Purple Wool",
     
     "block.minecraft.oak_pressure_plate":"Pressure Plate",
     "block.minecraft.spruce_pressure_plate":"Pressure Plate",
@@ -356,6 +379,8 @@
     "block.minecraft.mangrove_propagule":"Sapling",
     "block.minecraft.cherry_sapling":"Sapling",
     "block.minecraft.pale_oak_sapling":"Sapling",
+    "block.minecraft.azalea":"Sapling",
+    "block.minecraft.flowering_azalea":"Sapling",
     
     "block.minecraft.oak_sign":"Sign",
     "block.minecraft.spruce_sign":"Sign",
@@ -710,12 +735,18 @@
     "item.minecraft.bamboo_raft":"Boat",
     "item.minecraft.bamboo_chest_raft":"Boat",
     
+    "item.minecraft.enchanted_book":"Book",
+    "item.minecraft.knowledge_book":"Book",
+    "item.minecraft.writable_book":"Book",
+    "item.minecraft.written_book":"Book",
+    
     "item.minecraft.chorus_fruit":"Bread",
     "item.minecraft.baked_potato":"Bread",
     "item.minecraft.pumpkin_pie":"Bread",
     "item.minecraft.honey_bottle":"Bread",
     
     "item.minecraft.nether_brick":"Brick",
+    "item.minecraft.flower_pot":"Brick",
 
     "item.minecraft.copper_boots":"Chainmail Boots",
     
@@ -770,6 +801,8 @@
     "item.minecraft.blue_egg":"Egg",
     
     "item.minecraft.rotten_flesh":"Feather",
+    
+    "item.minecraft.fire_charge":"Flint and Steel",
     
     "item.minecraft.raw_gold":"Gold Ore",
     
